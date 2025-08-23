@@ -37,7 +37,6 @@
 
 - 👋 Hi, I’m Agnik Gupta,
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning LLM models
 - 💞️ I’m looking to collaborate on ML and DeepLearning projects
 - 📫 How to reach me  https://www.linkedin.com/in/agnik-gupta-389648251/
   
